@@ -1,5 +1,10 @@
 .App {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
   text-align: center;
+  color: #000;
+  font-size: 1.2rem;
 }
 
 .App-logo {
@@ -13,17 +18,6 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +29,51 @@
   to {
     transform: rotate(360deg);
   }
+}
+.header {
+  position: fixed;
+  top: 0;
+  z-index: 10000;
+}
+.content {
+  height: 100vh;
+  flex: 1 0 auto;
+}
+.text-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 5px 15px;
+  color: #fff;
+  font-size: 5rem;
+}
+.nav-wrapper {
+  color: #282c34;
+}
+.copyright {
+  top: 1rem;
+}
+.gallery {
+  display: grid;
+  grid-gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  padding-top: 1rem;
+}
+.main-btn {
+  border-radius: 10px;
+  padding: 10px 60px;
+  height: auto;
+  transition: .3s;
+  background: rgb(159,152,232);
+  background: linear-gradient(94deg, rgba(159,152,232,1) 46%, rgba(93,230,222,0.9164040616246498) 100%);
+}
+.main-btn:hover {
+  transform: scale(1.05);
+}
+.card {
+  transition: .3s;
+}
+.card:hover {
+  transform: scale(1.02);
 }
