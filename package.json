@@ -2,8 +2,8 @@
   "name": "flower-shop",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Dexmor096/github.io/Flowers/",
   "dependencies": {
-    "homepage": "https://Dexmor096/github.io/Flowers",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
