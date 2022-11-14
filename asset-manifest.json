@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ce0f582.css",
-    "main.js": "/static/js/main.96681246.js",
-    "static/media/buket-v-stile-loft.jpg": "/static/media/buket-v-stile-loft.e89029da1d9e342c9b57.jpg",
-    "static/media/icon-6690.png": "/static/media/icon-6690.b5e194082ee37f629db7.png",
-    "static/media/icon-2720.png": "/static/media/icon-2720.bddaae0f0af949f354e6.png",
-    "static/media/icon-5186.png": "/static/media/icon-5186.e60b8164a943ec684daa.png",
-    "static/media/icon-5185.png": "/static/media/icon-5185.66e88d9214123d784e74.png",
-    "static/media/icon-1440.png": "/static/media/icon-1440.a72b1295b5c6da727b3b.png",
-    "static/media/Los-Angeles-Deco.ttf": "/static/media/Los-Angeles-Deco.7990470bc4e9c33b8abe.ttf",
-    "static/media/icon-5316.png": "/static/media/icon-5316.61eddcca3b2a23c7b4db.png",
-    "index.html": "/index.html",
-    "main.3ce0f582.css.map": "/static/css/main.3ce0f582.css.map",
-    "main.96681246.js.map": "/static/js/main.96681246.js.map"
+    "main.css": "/github.io/Flowers/static/css/main.1a6a3c6f.css",
+    "main.js": "/github.io/Flowers/static/js/main.93158c18.js",
+    "static/media/buket-v-stile-loft.jpg": "/github.io/Flowers/static/media/buket-v-stile-loft.e89029da1d9e342c9b57.jpg",
+    "static/media/icon-6690.png": "/github.io/Flowers/static/media/icon-6690.b5e194082ee37f629db7.png",
+    "static/media/icon-2720.png": "/github.io/Flowers/static/media/icon-2720.bddaae0f0af949f354e6.png",
+    "static/media/icon-5186.png": "/github.io/Flowers/static/media/icon-5186.e60b8164a943ec684daa.png",
+    "static/media/icon-5185.png": "/github.io/Flowers/static/media/icon-5185.66e88d9214123d784e74.png",
+    "static/media/icon-1440.png": "/github.io/Flowers/static/media/icon-1440.a72b1295b5c6da727b3b.png",
+    "static/media/Los-Angeles-Deco.ttf": "/github.io/Flowers/static/media/Los-Angeles-Deco.7990470bc4e9c33b8abe.ttf",
+    "static/media/icon-5316.png": "/github.io/Flowers/static/media/icon-5316.61eddcca3b2a23c7b4db.png",
+    "index.html": "/github.io/Flowers/index.html",
+    "main.1a6a3c6f.css.map": "/github.io/Flowers/static/css/main.1a6a3c6f.css.map",
+    "main.93158c18.js.map": "/github.io/Flowers/static/js/main.93158c18.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ce0f582.css",
-    "static/js/main.96681246.js"
+    "static/css/main.1a6a3c6f.css",
+    "static/js/main.93158c18.js"
   ]
 }
