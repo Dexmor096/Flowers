@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/github.io/Flowers/static/css/main.1a6a3c6f.css",
-    "main.js": "/github.io/Flowers/static/js/main.93158c18.js",
-    "static/media/buket-v-stile-loft.jpg": "/github.io/Flowers/static/media/buket-v-stile-loft.e89029da1d9e342c9b57.jpg",
-    "static/media/icon-6690.png": "/github.io/Flowers/static/media/icon-6690.b5e194082ee37f629db7.png",
-    "static/media/icon-2720.png": "/github.io/Flowers/static/media/icon-2720.bddaae0f0af949f354e6.png",
-    "static/media/icon-5186.png": "/github.io/Flowers/static/media/icon-5186.e60b8164a943ec684daa.png",
-    "static/media/icon-5185.png": "/github.io/Flowers/static/media/icon-5185.66e88d9214123d784e74.png",
-    "static/media/icon-1440.png": "/github.io/Flowers/static/media/icon-1440.a72b1295b5c6da727b3b.png",
-    "static/media/Los-Angeles-Deco.ttf": "/github.io/Flowers/static/media/Los-Angeles-Deco.7990470bc4e9c33b8abe.ttf",
-    "static/media/icon-5316.png": "/github.io/Flowers/static/media/icon-5316.61eddcca3b2a23c7b4db.png",
-    "index.html": "/github.io/Flowers/index.html",
-    "main.1a6a3c6f.css.map": "/github.io/Flowers/static/css/main.1a6a3c6f.css.map",
-    "main.93158c18.js.map": "/github.io/Flowers/static/js/main.93158c18.js.map"
+    "main.css": "/Flowers/static/css/main.d6d47039.css",
+    "main.js": "/Flowers/static/js/main.78513bbb.js",
+    "static/media/buket-v-stile-loft.jpg": "/Flowers/static/media/buket-v-stile-loft.e89029da1d9e342c9b57.jpg",
+    "static/media/icon-6690.png": "/Flowers/static/media/icon-6690.b5e194082ee37f629db7.png",
+    "static/media/icon-2720.png": "/Flowers/static/media/icon-2720.bddaae0f0af949f354e6.png",
+    "static/media/icon-5186.png": "/Flowers/static/media/icon-5186.e60b8164a943ec684daa.png",
+    "static/media/icon-5185.png": "/Flowers/static/media/icon-5185.66e88d9214123d784e74.png",
+    "static/media/icon-1440.png": "/Flowers/static/media/icon-1440.a72b1295b5c6da727b3b.png",
+    "static/media/Los-Angeles-Deco.ttf": "/Flowers/static/media/Los-Angeles-Deco.7990470bc4e9c33b8abe.ttf",
+    "static/media/icon-5316.png": "/Flowers/static/media/icon-5316.61eddcca3b2a23c7b4db.png",
+    "index.html": "/Flowers/index.html",
+    "main.d6d47039.css.map": "/Flowers/static/css/main.d6d47039.css.map",
+    "main.78513bbb.js.map": "/Flowers/static/js/main.78513bbb.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a6a3c6f.css",
-    "static/js/main.93158c18.js"
+    "static/css/main.d6d47039.css",
+    "static/js/main.78513bbb.js"
   ]
 }
